@@ -1,1 +1,2 @@
-# Megaimperial
+# Mega-Imperial
+(formerly Megaimperial)
